@@ -1,21 +1,49 @@
-MIT License
+Custom License
 
 Copyright (c) 2026 Reizon
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+All rights reserved.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This software and its source code (the “Software”) are made available under the terms of this
+Proprietary Source-Available License.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+1. Grant of Use
+Permission is hereby granted to any individual or legal entity to use the Software for personal
+or commercial purposes, provided that all terms of this License are strictly respected.
+
+2. Restrictions
+The following actions are expressly prohibited without prior written permission from the
+copyright holder:
+
+a) Modifying, adapting, translating, reverse-engineering, decompiling, or creating derivative
+works based on the Software, in whole or in part.
+
+b) Redistributing the Software, whether in source or binary form, except when the redistribution
+includes clear and visible attribution to the original author and an explicit link to the
+official repository of the Software.
+
+c) Claiming authorship, ownership, or origin of the Software, in whole or in part, or removing,
+altering, or obscuring any copyright, attribution, or license notices.
+
+3. Attribution Requirement
+Any permitted use or redistribution of the Software must include proper credit to the original
+author and a direct link to the official repository where the Software is originally distributed.
+
+4. Ownership
+The Software is licensed, not sold. All rights, title, and interest in and to the Software remain
+exclusively with the copyright holder.
+
+5. No Warranty
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT
+NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM,
+OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+6. Termination
+Any violation of this License automatically terminates the permissions granted herein without
+notice.
+
+7. Governing Law
+This License shall be governed and construed in accordance with the laws applicable to the
+copyright holder’s jurisdiction.
